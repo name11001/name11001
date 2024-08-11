@@ -14,10 +14,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=name11001&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=name11001&theme=radical&no-frame=true&no-bg=false&margin-w=4)
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
