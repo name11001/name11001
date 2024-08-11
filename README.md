@@ -15,6 +15,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=name11001&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
